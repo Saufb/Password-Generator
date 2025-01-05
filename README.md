@@ -16,8 +16,11 @@
 ## التثبيت 🛠️
 
 1. افتح الترمينال أو موجه الأوامر. 
-   ``git clone https://github.com/Saufb/Password-Generator.git
+   ``git clone https://github.com/Saufb/Password-Generator.git``
    
-cd Password-Generator
+``cd Password-Generator``
 
-python3 main.py``
+``python3 main.py``
+
+
+**صنع في السعودية 🇸🇦**  
