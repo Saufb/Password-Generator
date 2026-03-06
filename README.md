@@ -16,7 +16,9 @@ A simple program that helps you create strong and random passwords quickly. It i
 ## Installation 🛠️
 
 1. Open the terminal or command prompt.
-2. 
+
+
+
    ```bash
    git clone https://github.com/Saufb/Password-Generator.git
     ```
